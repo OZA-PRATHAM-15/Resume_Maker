@@ -25,5 +25,11 @@ A professional and polished template ideal for corporate settings.
 Screenshots
 ![Home](Resume-Builder-master/images/ss1.png)
 
+![Demographics](Resume-Builder-master/images/ss2.png)
+
+![others](Resume-Builder-master/images/ss3.png)
+
+![template](Resume-Builder-master/images/ss4.png)
+
 Contributing
 We welcome contributions to improve the Resume Maker Web App! If you have any suggestions, feature requests, or find any issues, please feel free to open an issue or submit a pull request.
