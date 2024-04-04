@@ -22,5 +22,8 @@ A modern and creative layout perfect for those in design or creative fields.
 3. Professional Template
 A professional and polished template ideal for corporate settings.
 
+Screenshots
+![Home](Resume-Builder-master/images/ss1.png)
+
 Contributing
 We welcome contributions to improve the Resume Maker Web App! If you have any suggestions, feature requests, or find any issues, please feel free to open an issue or submit a pull request.
